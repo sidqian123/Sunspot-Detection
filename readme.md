@@ -1,0 +1,1 @@
+run "conda env create -f environment.yml" to create the conda env for this project
